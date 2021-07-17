@@ -1,6 +1,11 @@
 import java.util.Scanner;
 
 public class Patten_6 {
+    //       if i = 4 then
+    //       1111
+    //       2222
+    //       3333
+    //       4444
     public static void main(String[] Args){
         Scanner n = new Scanner(System.in);
         int i = n.nextInt();
