@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
 public class Patten_11 {
+    //       if n = 3 then
+    //       1
+    //       22
+    //       333
     public static void main(String[] Args){
         Scanner n = new Scanner(System.in);
         int i = n.nextInt();
